@@ -1,0 +1,1 @@
+# Delayed asset loading test
