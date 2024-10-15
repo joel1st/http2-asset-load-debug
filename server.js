@@ -30,7 +30,7 @@ http
         break;
     }
 
-    if (filePath.includes("images/slow")) {
+    if (filePath.includes("images/")) {
       await new Promise((res) => setTimeout(res, 5000));
     }
 
